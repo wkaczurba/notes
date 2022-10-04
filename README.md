@@ -1,2 +1,4 @@
 # notes
-Coding notes and survival guides
+
+Random coding notes, drafts and some survival guides
+
